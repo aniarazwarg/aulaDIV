@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+
+.quadrado{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+
+.verde{
+    background-color: green;
+}
+
+.vermelho{
+    background-color: red;
+}
